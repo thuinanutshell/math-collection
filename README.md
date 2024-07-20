@@ -1,2 +1,1 @@
-# math-collection
-a collection of math problems (calculus + linear algebra + stats)
+# A Collection of Math Problems for Practice
